@@ -2,4 +2,8 @@ statefulset:
   replicas: 1
   imageRepo: manigangisetty/mongodb
   imageVersion: 1.0
+  
+
+
+
 
