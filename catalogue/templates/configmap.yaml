@@ -5,4 +5,4 @@ metadata:
   namespace: roboshop
 data:
   MONGO: "true"
-  MONGO_URL: {{ .Values.configmap.mongodbUrl }}
+  MONGO_URL: {{ .Values.configMap.mongodbUrl }}
